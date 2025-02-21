@@ -43,6 +43,18 @@ public class persona {
         return edad;
     }
 
+
+    public boolean reguistarAsistencia(
+        String codIndentificador;
+        String fechaAsistencia;
+        String HoraAsistencia;
+        Boolean valorAsistencia
+                ){
+        return
+
+
+    }
+
     public void setEdad(Integer edad) {
         this.edad = edad;
     }
